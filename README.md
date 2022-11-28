@@ -1,8 +1,7 @@
-- Olá sou estudante de técnologia, exerci muitos empregos na vida em busca de conhecimento e sabedoria e me encontrei como Desenvolvedor.
-- Costumo ser organizado e sempre que há um problema seja na vida ou no computador eu análiso, vejo a melhor solução e resolvo por conta própria se possivel!.
-- Respeito meus limites afinal eu não compraria um carro desmontado para montar em casa correto? dentro do limite resolvo por conta própria qualquer situação.
-- No momento eu trabalho e procuro conciliar com um emprego Home Office.
+- Olá sou estudante de técnologia, exerci muitos empregos na vida em busca de conhecimento e sabedoria e me encontrei como Desenvolvedor, costumo ser organizado e sempre   que há um problema seja na vida ou no computador eu análiso, vejo a melhor solução e resolvo por conta própria se possivel, Respeito meus limites afinal eu não
+  compraria um carro desmontado para montar em casa correto? dentro dos meus limites de conhecimento resolvo por conta própria qualquer situação sempre que possivel!.
 - Me defino uma pessoa humilde e solidário, o que me fascina é o poder das Mãos de conduzir uma cirurgia e as mesmas mãos construir uma casa ou um progama de software.
+- No momento eu trabalho e procuro conciliar com um emprego Home Office.
 
 - 👋 Hi, I’m @andrej7metal...
 - 👀 I am interested in Home Office or Volunteer work...
